@@ -5,7 +5,7 @@
 #include <list>
 #include <algorithm>
 #include <utility>
-
+//! LEFT OFF 32:32
 using namespace std;
 sf::Vector2u WINDOW_SIZE{800,480};
 
